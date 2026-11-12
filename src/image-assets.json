@@ -1,0 +1,884 @@
+{
+  "/assets/beauty/beauty_01/001.jpg": {
+    "width": 1080,
+    "height": 1440,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/001-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/001-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000004-context.png": {
+    "width": 880,
+    "height": 1220,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000004-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000004-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000005-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000005-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000005-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000006-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000006-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000006-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000010-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000010-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000010-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000020-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000020-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000020-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000092-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000092-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000092-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000102-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000102-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000102-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000110-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000110-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000110-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000121-context.png": {
+    "width": 880,
+    "height": 1220,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000121-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000121-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000129-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000129-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000129-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000130-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000130-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000130-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000131-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000131-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000131-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000146-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000146-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000146-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000151-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000151-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000151-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000159-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000159-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000159-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000162-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000162-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000162-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000163-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000163-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000163-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000164-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000164-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000164-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000165-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000165-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000165-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000168-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000168-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000168-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000169-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000169-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000169-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000170-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000170-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000170-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000171-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000171-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000171-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-000177-context.png": {
+    "width": 800,
+    "height": 1018,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-000177-context-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-000177-context-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-xiaogui-1-crop.png": {
+    "width": 814,
+    "height": 1447,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-xiaogui-1-crop-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-xiaogui-1-crop-detail.webp"
+  },
+  "/assets/beauty/beauty_01/comment-xiaogui-2-crop.png": {
+    "width": 814,
+    "height": 1447,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/comment-xiaogui-2-crop-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/comment-xiaogui-2-crop-detail.webp"
+  },
+  "/assets/beauty/beauty_01/swatch-1-crop.png": {
+    "width": 1280,
+    "height": 960,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/swatch-1-crop-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/swatch-1-crop-detail.webp"
+  },
+  "/assets/beauty/beauty_01/swatch-2-crop.png": {
+    "width": 898,
+    "height": 1196,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/swatch-2-crop-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/swatch-2-crop-detail.webp"
+  },
+  "/assets/beauty/beauty_01/swatch-3-crop.png": {
+    "width": 898,
+    "height": 1196,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/swatch-3-crop-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/swatch-3-crop-detail.webp"
+  },
+  "/assets/beauty/beauty_01/swatch-4-crop.png": {
+    "width": 1182,
+    "height": 1196,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_01/swatch-4-crop-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_01/swatch-4-crop-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-01.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-01-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-01-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-02.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-02-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-02-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-03.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-03-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-03-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-04.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-04-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-04-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-05.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-05-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-05-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-06.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-06-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-06-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-07.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-07-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-07-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-08.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-08-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-08-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-09.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-09-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-09-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-10.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-10-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-10-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-11.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-11-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-11-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-12.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-12-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-12-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-13.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-13-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-13-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-14.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-14-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-14-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-15.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-15-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-15-detail.webp"
+  },
+  "/assets/beauty/beauty_02/body-16.png": {
+    "width": 994,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/body-16-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/body-16-detail.webp"
+  },
+  "/assets/beauty/beauty_02/comment-32.png": {
+    "width": 544,
+    "height": 1196,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/comment-32-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/comment-32-detail.webp"
+  },
+  "/assets/beauty/beauty_02/comment-40.png": {
+    "width": 553,
+    "height": 1196,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/comment-40-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/comment-40-detail.webp"
+  },
+  "/assets/beauty/beauty_02/comment-47.png": {
+    "width": 898,
+    "height": 1196,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/comment-47-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/comment-47-detail.webp"
+  },
+  "/assets/beauty/beauty_02/comments-021.png": {
+    "width": 800,
+    "height": 1324,
+    "cropped": false,
+    "preview": "/assets/optimized/beauty/beauty_02/comments-021-preview.webp",
+    "detail": "/assets/optimized/beauty/beauty_02/comments-021-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/001.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/001-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/001-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/002.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/002-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/002-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/003.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/003-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/003-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/004.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/004-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/004-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/005.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/005-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/005-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/006.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/006-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/006-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/007.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/007-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/007-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/008.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/008-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/008-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/009.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/009-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/009-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/010.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/010-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/010-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/011.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/011-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/011-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/012.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/012-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/012-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/013.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/013-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/013-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/014.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/014-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/014-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/015.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/015-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/015-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/016.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/016-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/016-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/017.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/017-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/017-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/018.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/018-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/018-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/019.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/019-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/019-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/020.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/020-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/020-detail.webp"
+  },
+  "/assets/scenes/citywalk_01/021.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_01/021-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_01/021-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/001.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/001-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/001-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/002.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/002-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/002-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/003.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/003-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/003-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/004.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/004-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/004-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/005.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/005-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/005-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/006.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/006-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/006-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/007.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/007-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/007-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/008.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/008-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/008-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/009.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/009-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/009-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/010.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/010-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/010-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/011.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/011-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/011-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/012.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/012-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/012-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/013.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/013-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/013-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/014.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/014-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/014-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/015.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/015-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/015-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/016.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/016-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/016-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/017.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/017-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/017-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/018.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/018-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/018-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/019.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/019-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/019-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/020.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/020-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/020-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/021.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/021-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/021-detail.webp"
+  },
+  "/assets/scenes/citywalk_02/022.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/citywalk_02/022-preview.webp",
+    "detail": "/assets/optimized/scenes/citywalk_02/022-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/001.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/001-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/001-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/002.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/002-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/002-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/003.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/003-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/003-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/004.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/004-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/004-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/005.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/005-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/005-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/006.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/006-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/006-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/007.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/007-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/007-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/008.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/008-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/008-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/009.jpg": {
+    "width": 2664,
+    "height": 1594,
+    "cropped": false,
+    "preview": "/assets/optimized/scenes/cleaning_01/009-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/009-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/010.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/010-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/010-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/011.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/011-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/011-detail.webp"
+  },
+  "/assets/scenes/cleaning_01/012.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_01/012-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_01/012-detail.webp"
+  },
+  "/assets/scenes/cleaning_02/001.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_02/001-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_02/001-detail.webp"
+  },
+  "/assets/scenes/cleaning_02/002.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_02/002-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_02/002-detail.webp"
+  },
+  "/assets/scenes/cleaning_02/003.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_02/003-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_02/003-detail.webp"
+  },
+  "/assets/scenes/cleaning_02/004.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_02/004-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_02/004-detail.webp"
+  },
+  "/assets/scenes/cleaning_02/005.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cleaning_02/005-preview.webp",
+    "detail": "/assets/optimized/scenes/cleaning_02/005-detail.webp"
+  },
+  "/assets/scenes/cooking_01/001.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_01/001-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_01/001-detail.webp"
+  },
+  "/assets/scenes/cooking_01/002.jpg": {
+    "width": 993,
+    "height": 1230,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_01/002-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_01/002-detail.webp"
+  },
+  "/assets/scenes/cooking_01/003.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_01/003-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_01/003-detail.webp"
+  },
+  "/assets/scenes/cooking_01/004.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_01/004-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_01/004-detail.webp"
+  },
+  "/assets/scenes/cooking_01/005.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_01/005-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_01/005-detail.webp"
+  },
+  "/assets/scenes/cooking_01/006.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_01/006-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_01/006-detail.webp"
+  },
+  "/assets/scenes/cooking_01/007.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_01/007-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_01/007-detail.webp"
+  },
+  "/assets/scenes/cooking_02/001.jpg": {
+    "width": 1324,
+    "height": 994,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_02/001-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_02/001-detail.webp"
+  },
+  "/assets/scenes/cooking_02/002.jpg": {
+    "width": 1324,
+    "height": 994,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_02/002-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_02/002-detail.webp"
+  },
+  "/assets/scenes/cooking_02/003.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_02/003-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_02/003-detail.webp"
+  },
+  "/assets/scenes/cooking_02/004.jpg": {
+    "width": 993,
+    "height": 1324,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_02/004-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_02/004-detail.webp"
+  },
+  "/assets/scenes/cooking_02/005.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_02/005-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_02/005-detail.webp"
+  },
+  "/assets/scenes/cooking_02/006.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_02/006-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_02/006-detail.webp"
+  },
+  "/assets/scenes/cooking_02/007.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_02/007-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_02/007-detail.webp"
+  },
+  "/assets/scenes/cooking_02/008.jpg": {
+    "width": 896,
+    "height": 1197,
+    "cropped": true,
+    "preview": "/assets/optimized/scenes/cooking_02/008-preview.webp",
+    "detail": "/assets/optimized/scenes/cooking_02/008-detail.webp"
+  }
+}

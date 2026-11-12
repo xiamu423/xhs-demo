@@ -10,9 +10,10 @@
     "test:sites": "node --test tests/sites-worker.test.mjs",
     "predev": "npm run check:runtime",
     "dev": "vite",
-    "prebuild": "npm run check:runtime",
+    "prebuild": "npm run check:runtime && npm run check:images",
     "build": "tsc && vite build && node scripts/prepare-sites-build.mjs",
-    "build:pages": "npm run check:runtime && tsc && vite build --config vite.pages.config.ts && node scripts/check-pages-build.mjs"
+    "build:pages": "npm run check:runtime && npm run check:images && tsc && vite build --config vite.pages.config.ts && node scripts/check-pages-build.mjs",
+    "check:images": "node scripts/check-content-images.mjs"
   },
   "dependencies": {
     "@fontsource/roboto": "5.2.10",
