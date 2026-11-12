@@ -1,3 +1,12 @@
+# GitHub Pages 发布构建验收（2026-11-13）
+
+本地构建验收：passed；线上发布等待GitHub登录授权。
+
+使用独立Pages构建配置，部署base为/xhs-demo/。构建期统一转换src中的资源字面量及media-frames索引键，保护运行时源文件保持原样。build:pages通过，28个运行时哈希一致，134个资源URL存在，bundle没有残留根路径/assets/。
+在http://127.0.0.1:4174/xhs-demo/实际打开构建版，桌面手机框、首页封面、搜索输入、白鞋结果均正常；已加载img无失败，浏览器warn/error为空，截图目视确认与本地开发版一致。目标仓库xiamu423/xhs-demo，不覆盖现有用户根站点。
+
+---
+
 # 点点输入与更多入口禁用（2026-11-13）
 
 final result: passed
