@@ -1,7 +1,9 @@
 小红书「抄作业」四主题 demo（2026-11-13）
 
 预览：http://127.0.0.1:4173/
-GitHub Pages部署准备中：目标 https://xiamu423.github.io/xhs-demo/ ，发布完成后记录验收状态。
+线上：https://xiamu423.github.io/xhs-demo/
+仓库：https://github.com/xiamu423/xhs-demo
+GitHub Pages 已成功发布，线上首页和抽查资源检查通过；后续推送 main 自动部署。
 
 建议体验顺序
 1. 首页发现页展示八篇真实笔记，可打开原笔记、返回原位置。
