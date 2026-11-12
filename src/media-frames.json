@@ -1,0 +1,446 @@
+{
+  "/assets/scenes/cooking_01/001.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cooking_01/002.jpg": [
+    355,
+    222,
+    993,
+    1230
+  ],
+  "/assets/scenes/cooking_01/003.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cooking_01/004.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cooking_01/005.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cooking_01/006.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cooking_01/007.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cooking_02/001.jpg": [
+    270,
+    387,
+    1324,
+    994
+  ],
+  "/assets/scenes/cooking_02/002.jpg": [
+    270,
+    387,
+    1324,
+    994
+  ],
+  "/assets/scenes/cooking_02/003.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cooking_02/004.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cooking_02/005.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cooking_02/006.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cooking_02/007.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cooking_02/008.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cleaning_01/001.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_01/002.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_01/003.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_01/004.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_01/005.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_01/006.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_01/007.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_01/008.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cleaning_01/010.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cleaning_01/011.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cleaning_01/012.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cleaning_02/001.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_02/002.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_02/003.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/cleaning_02/004.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/cleaning_02/005.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_01/001.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/002.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/003.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/004.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/005.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/006.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/007.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/008.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/009.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/010.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/011.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/012.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/013.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/014.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/015.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_01/016.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_01/017.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_01/018.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_01/019.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_01/020.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_01/021.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/001.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/002.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/003.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/004.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/005.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/006.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/007.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/008.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/009.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/010.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/011.jpg": [
+    435,
+    222,
+    993,
+    1324
+  ],
+  "/assets/scenes/citywalk_02/012.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/013.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/014.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/015.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/016.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/017.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/018.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/019.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/020.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/021.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ],
+  "/assets/scenes/citywalk_02/022.jpg": [
+    884,
+    222,
+    896,
+    1197
+  ]
+}
